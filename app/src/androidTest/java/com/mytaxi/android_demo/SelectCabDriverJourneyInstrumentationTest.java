@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(AndroidJUnit4.class)
-public class ExampleInstrumentedTest {
+public class SelectCabDriverJourneyInstrumentationTest {
 
     @Rule
     public ActivityTestRule mActivityRule = new ActivityTestRule<>(MainActivity.class);
