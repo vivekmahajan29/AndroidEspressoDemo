@@ -19,7 +19,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withText;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.core.IsNot.not;
 
-public class DriverSearch {
+public class DriverSearchUtils {
 
     private static Activity currentActivity = null;
 

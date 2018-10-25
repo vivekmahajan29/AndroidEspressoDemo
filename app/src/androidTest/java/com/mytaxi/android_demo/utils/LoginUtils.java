@@ -20,7 +20,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withId;
 import static android.support.test.espresso.matcher.ViewMatchers.withText;
 import static com.mytaxi.android_demo.misc.Constants.LOG_TAG;
 
-public class Login {
+public class LoginUtils {
 
     public static final long TIME_IN_MILLI_SECONDS = 5000;
 
